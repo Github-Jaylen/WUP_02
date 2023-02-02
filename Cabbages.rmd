@@ -35,6 +35,14 @@ veggy <- cabbages
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+boxplot(VitC~Cult,data=veggy)
+```
+  
+  The c52 Box is higher than the c39 box.  This would mean that the c52 cabages have more VitC as the c52 box is so much higher than the c39 box
+  
+  
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
