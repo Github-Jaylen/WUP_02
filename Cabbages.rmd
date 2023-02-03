@@ -68,5 +68,5 @@ The chance of these results occurring is 0.00000003 which is an infinitesimally 
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-
+The box plot showed that there was a dramatic difference between the c52 and c39 production methods.  The numerical data provided exact numbers regarding the differences.  The inferential data from the T test showed that there is such a small chance of them being different that there may well be no difference at all.
 
